@@ -11,6 +11,6 @@ How to install apps and drivers
 
 ## Applications
 
-* [ChemAxon Marvin installation](files/marvin.pdf)
+### [Marvin of ChemAxon](files/marvin.pdf)
 
 ## References
