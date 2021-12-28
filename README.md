@@ -13,7 +13,7 @@ How to install apps and drivers
 
 * It is for Business Management Department *only* printer.
 * Download [https://h30438.www3.hp.com/pub/softlib/software13/LES/M277/HP_Color_LJ_Pro_MFP_M277-full-solution-15345.exe](https://h30438.www3.hp.com/pub/softlib/software13/LES/M277/HP_Color_LJ_Pro_MFP_M277-full-solution-15345.exe)
-* Install the driver
+* Install the program and the driver.
 
 ## Applications
 
