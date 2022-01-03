@@ -15,6 +15,13 @@ How to install apps and drivers
 * Download [https://h30438.www3.hp.com/pub/softlib/software13/LES/M277/HP_Color_LJ_Pro_MFP_M277-full-solution-15345.exe](https://h30438.www3.hp.com/pub/softlib/software13/LES/M277/HP_Color_LJ_Pro_MFP_M277-full-solution-15345.exe)
 * Install the program and the driver.
 
+## Motherboard drivers
+
+### MAG B550M MORTAR (MS-7C94)
+
+* System & Chipset Drivers (Windows 10): [https://download.msi.com/dvr_exe/mb/amd_chipset_drivers_am4_wt.zip](https://download.msi.com/dvr_exe/mb/amd_chipset_drivers_am4_wt.zip)
+* On-Board VGA Drivers (Windows 10): [https://download.msi.com/dvr_exe/mb/amd_vga_driver.zip](https://download.msi.com/dvr_exe/mb/amd_vga_driver.zip)
+
 ## Applications
 
 ### [Marvin of ChemAxon](files/marvin.pdf)
