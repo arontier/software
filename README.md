@@ -11,7 +11,7 @@ This is a guide explaining how to use software at Arontier Co., Inc.
 
 If you want to access hosts (e.g. servers, printers, nas, and so on) in the office or IDC
 from non-Arontier network (e.g. home, cafe, and so on),
-you can ask system administrators to issue an OpenVPN certificate.
+you may ask any of system administrators to issue an OpenVPN certificate of your own.
 
 Once you get a certificate file with suffix `.ovpn`, you should download
 and install OpenVPN Client Connect from https://openvpn.net/vpn-client/.
