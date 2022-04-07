@@ -9,7 +9,7 @@ This is a guide explaining how to use software at Arontier Co., Inc.
 
 ## OpenVPN
 
-If you want to access hosts (e.g. printers, nas, and so on) in the office or IDC
+If you want to access hosts (e.g. servers, printers, nas, and so on) in the office or IDC
 from non-Arontier network (e.g. home, cafe, and so on),
 you can ask system administrators to issue an OpenVPN certificate.
 
