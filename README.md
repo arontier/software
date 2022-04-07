@@ -22,7 +22,7 @@ If you want to change the certificate password, connect to Arontier network
 Enter your account name, which shows in your certificate filename,
 and the current password to log in to the site.
 Enter a new password and click save. 
-Next time you use OpenVPN Client connect, you can use the new password to connect Arontier network.
+Next time you use OpenVPN Client Connect, you can use the new password to connect Arontier network.
 
 ## Drivers
 
