@@ -40,7 +40,7 @@ and install the program *and* the driver.
 
 ## Applications
 
-### [Marvin of ChemAxon](files/marvin.pdf)
+~~### [Marvin of ChemAxon](files/marvin.pdf)~~
 
 ## PC-specific software
 
