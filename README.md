@@ -13,9 +13,13 @@ If you want to access hosts (e.g. servers, printers, nas, and so on) in the offi
 from non-Arontier network (e.g. home, cafe, and so on),
 you may ask any of system administrators to issue an OpenVPN certificate.
 
+### Connecting to Arontier network
+
 Once you get a certificate file with suffix `.ovpn`, you should download
 and install OpenVPN Client Connect from https://openvpn.net/vpn-client/.
 Then import your certificate to OpenVPN Client Connect.
+
+### Changing your password
 
 If you want to change the certificate password, connect to Arontier network
 (you do so in the office or with OpenVPN connection) and visit 
