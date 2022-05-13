@@ -41,7 +41,7 @@ Next time you use OpenVPN Client Connect, you must use the new password to conne
 
 ### Sindoh D430 on Microsoft Windows 10
 
-Click https://www.sindoh.com//upload/downcenter/1708092544880391.zip to download the printer driver.
+Click https://www.sindoh.com/upload/downcenter/1708092544880391.zip to download the printer driver.
 Then uncompress the downloaded file. Find and click `SETUP.EXE` file to start installation.
 It may ask the printer network address, which is shown on a white label around the control panel of the printer itself. 
 
