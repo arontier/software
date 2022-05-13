@@ -41,8 +41,14 @@ Next time you use OpenVPN Client Connect, you must use the new password to conne
 
 ### Sindoh D430 on Microsoft Windows 10
 
+Click https://www.sindoh.com//upload/downcenter/1708092544880391.zip to download the printer driver.
+Then uncompress the downloaded file. Find and click `SETUP.EXE` file to start installation.
+It may ask the printer network address, which is shown on a white label around the printer control panel. 
+
+<!--
 Visit https://www.sindoh.com/downcenter/dc_list.do and search for D430.
 Then select `PCL6 Driver(빠른설치)`, download, and install the driver.
+-->
 
 ### HP Color LaserJet Pro MFP M277dw on Microsoft Windows 10
 
