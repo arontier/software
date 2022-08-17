@@ -24,8 +24,8 @@ Then import your certificate to OpenVPN Client Connect.
 If you want to change the certificate password, connect to Arontier network
 (you do so in the office or with OpenVPN connection) and visit 
 
-* http://192.168.10.1 (if you have an office certificate) or 
-* https://192.168.40.9 (if you have an IDC certificate) 
+* http://192.168.10.1 (if the certificate filename starts with seoul) or 
+* https://192.168.40.9 (if the certificate filename starts with yatap) 
 
 in a browser. 
 
