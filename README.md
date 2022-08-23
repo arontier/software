@@ -2,10 +2,31 @@
 
 This is a guide explaining how to use software at Arontier Co., Inc.
 
+* [Groupware](#groupware)
+  * [Contact](#contact) 
+  * [Calendar](#calendar) 
 * [OpenVPN](#openvpn)
 * [Drivers](#drivers)
 * [Applications](#applications)
 * [PC-specific software](#pc-specific-software)
+
+## Groupware 
+
+### Contact
+
+To sync groupware contact with your Mac/iPhone, please read https://support.daouoffice.com:8443/DO_2.4.2#sync_calendar_contacts (in Korean only).
+Basically groupware contact supports [CardDAV](https://en.wikipedia.org/wiki/CardDAV). 
+The following information can be used in Section 1.1.7 of the above reference:
+
+* Server: arontier.daouoffice.com
+* Username: your company email address
+* Password: password for your company email address
+
+### Calendar
+
+To sync groupware calendar with your Mac/iPhone, please read https://support.daouoffice.com:8443/DO_2.4.2#sync_calendar_contacts (in Korean only).
+Basically groupware calendar supports [CalDAV](https://en.wikipedia.org/wiki/CalDAV).
+The credentials described in [Contact](#contact) can be used in Section 1.2.7 of the above reference.
 
 ## OpenVPN
 
