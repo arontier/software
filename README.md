@@ -18,7 +18,7 @@ To sync groupware contact with your Mac/iPhone, please read https://support.daou
 Basically groupware contact supports [CardDAV](https://en.wikipedia.org/wiki/CardDAV). 
 The following information can be used in Section 1.1.7 of the above reference:
 
-* Server: arontier.daouoffice.com
+* Server: `arontier.daouoffice.com`
 * Username: your company email address
 * Password: password for your company email address
 
