@@ -74,7 +74,7 @@ Then select `PCL6 Driver(빠른설치)`, download, and install the driver.
 ### (Printer) HP Color LaserJet Pro MFP M277dw on Microsoft Windows 10
 
 It is a printer **for Business Management Department only**.
-If you are not in the department **stop now, full stop**. It's not for you.
+If you are not in the department **STOP NOW, FULL STOP**. It's not for you.
 Otherwise download 
 https://h30438.www3.hp.com/pub/softlib/software13/LES/M277/HP_Color_LJ_Pro_MFP_M277-full-solution-15345.exe
 and install the program *and* the driver.
