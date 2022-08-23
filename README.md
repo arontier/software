@@ -30,19 +30,19 @@ The credentials described in [Contact](#contact) can be used in Section 1.2.7 of
 
 ## OpenVPN
 
-If you want to access hosts (e.g. servers, printers, nas, and so on) in the office or IDC
-from non-Arontier network (e.g. home, cafe, and so on),
+If you want to access hosts (e.g. servers, printers, NAS, and so on) in the office or IDC
+from non-company network (e.g. home, cafe, and so on),
 you may ask any of system administrators to issue an OpenVPN certificate.
 
-### Connecting to Arontier network
+### Connecting to company network
 
 Once you get a certificate file with suffix `.ovpn`, you should download
 and install OpenVPN Client Connect from https://openvpn.net/vpn-client/.
 Then import your certificate to OpenVPN Client Connect.
 
-### Changing your password
+### Changing password
 
-If you want to change the certificate password, connect to Arontier network
+If you want to change the certificate password, *connect to company network first*
 (you do so in the office or with OpenVPN connection) and visit 
 
 * http://192.168.10.1 (if the certificate filename starts with seoul) or 
@@ -56,7 +56,7 @@ After log in, you should see `Update Password` section.
 Enter a new password twice (for `Password` and `Confirmation`) and click `Save`.
 Then log out from the site.  
 
-Next time you use OpenVPN Client Connect, you must use the new password to connect Arontier network.
+Next time you use OpenVPN Client Connect, you must use the new password to connect company network.
 
 ## Drivers
 
