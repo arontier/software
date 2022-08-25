@@ -14,7 +14,7 @@ This is a guide explaining how to use software at Arontier Co., Inc.
 
 ### Contact
 
-To sync groupware contact with your Mac/iPhone, please read https://support.daouoffice.com:8443/DO_2.4.2#sync_calendar_contacts (written in Korean only).
+To sync groupware contact with your Mac/iPhone or Android, please read https://support.daouoffice.com:8443/DO_2.4.2#sync_calendar_contacts (written in Korean only).
 Basically groupware contact supports [CardDAV](https://en.wikipedia.org/wiki/CardDAV). 
 The following information can be used in Section 1.1.7 of the above reference:
 
@@ -24,7 +24,7 @@ The following information can be used in Section 1.1.7 of the above reference:
 
 ### Calendar
 
-To sync groupware calendar with your Mac/iPhone, please read https://support.daouoffice.com:8443/DO_2.4.2#sync_calendar_contacts (written in Korean only).
+To sync groupware calendar with your Mac/iPhone or Android, please read https://support.daouoffice.com:8443/DO_2.4.2#sync_calendar_contacts (written in Korean only).
 Basically groupware calendar supports [CalDAV](https://en.wikipedia.org/wiki/CalDAV).
 The credentials described in [Contact](#contact) can be used in Section 1.2.7 of the above reference.
 
