@@ -75,8 +75,8 @@ Then select `PCL6 Driver(빠른설치)`, download, and install the driver.
 
 It is a printer **for Business Management Department only**.
 If you are not in the department **STOP NOW, FULL STOP**. It's not for you.
-Otherwise download 
-https://h30438.www3.hp.com/pub/softlib/software13/LES/M277/HP_Color_LJ_Pro_MFP_M277-full-solution-15345.exe
+Otherwise download "HP 컬러 레이저젯 프로 M277 프린터 시리즈 통합 소프트웨어 및 PCL 6 드라이버" 
+https://support.hp.com/kr-ko/drivers/selfservice/hp-color-laserjet-pro-mfp-m277dw/7089945/model/7089949
 and install the program *and* the driver.
 
 ## Applications
