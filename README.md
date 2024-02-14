@@ -43,13 +43,11 @@ Then import your certificate to OpenVPN Client Connect.
 ### Changing password
 
 If you want to change the certificate password, *connect to company network first*
-(you do so in the office or with OpenVPN connection) and visit 
+(you do so in the office or with OpenVPN connection) and type one of the followigs in the browser address bar (don't click!):
 
 * http://192.168.10.1 (if the certificate filename starts with `fw-head-office` or `seoul`) or 
 * https://192.168.40.2:10443 (if the certificate filename starts with `fw-enchanters`) or 
 * https://192.168.40.9 (if the certificate filename starts with `fw-brain` or `yatap`) 
-
-in a browser. 
 
 Enter your account name for `Username` field, which shows in your certificate filename
 and the current password for `Password` to log in to the site.
