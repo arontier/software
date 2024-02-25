@@ -46,7 +46,7 @@ If you want to change the certificate password, *connect to company network firs
 (you do so in the office or with OpenVPN connection) and type one of the following in the browser address bar (don't click!):
 
 * https://192.168.10.1 (if the certificate filename starts with `fw-headquarters` or `seoul`) or 
-* https://192.168.40.2:10443 (if the certificate filename starts with `fw-enchanters`) or 
+* https://192.168.8.1:10443 (if the certificate filename starts with `fw-enchanters`) or 
 * https://192.168.40.9 (if the certificate filename starts with `fw-brain` or `yatap`) 
 
 Enter your account name for `Username` field, which shows in your certificate filename
