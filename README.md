@@ -59,7 +59,7 @@ Next time you use OpenVPN Client Connect, you must use the new password to conne
 
 ### If OpenVPN Client Connect does not work on a Mac via iOS hotspot
 
-It's not OpenVPN server nor OpenVPN Client Connect. It's just iOS hotspot:
+It's not OpenVPN server nor OpenVPN Client Connect. It's just iOS:
 iOS hotspot does use IPv6 only, not IPv4.
 To address this issue, you can create a location profile and configure it.
 
