@@ -57,6 +57,37 @@ Then log out from the site.
 
 Next time you use OpenVPN Client Connect, you must use the new password to connect company network.
 
+### If OpenVPN Client Connect does not work on a Mac via iOS hotspot
+
+It's not OpenVPN server nor OpenVPN Client Connect problem. It's just iOS hotspot problem.
+More specifically iOS hotspot does use IPv6 only, not IPv4.
+To solve this you can create a location profile and use it.
+
+Open a terminal on your Mac and run the following code:
+
+```bash
+networksetup -createlocation Hotspot populate
+```
+
+You will notice there is a new menu item "Location" under Apple () menu at the top-left corner.
+Connect your Mac to your iOS hotspot and click "Hotspot" in Location.
+Then configure your Network Settings:
+
+- Configure IPv4: Manually
+- IP address: 172.20.10.2
+- Subnet mask: 255.255.255.240
+- Router: 172.20.10.1
+- Configure IPv6: Automatically
+
+Click OK and you should be able to use OpenVPN Client Connect.
+If you disconnect from the hotspot, don't forget to choose "Automatic" in Location.
+
+Later if you don't need Hotspot location any more, do this in a terminal:
+
+```bash
+networksetup -deletelocation Hotspot
+```
+
 ## Drivers
 
 ### (Printer) Sindoh D430 on Microsoft Windows 10
