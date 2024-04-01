@@ -81,7 +81,7 @@ Then configure your Network Settings:
 
 Click OK and you should be able to use OpenVPN Client Connect again.
 If you disconnect from the hotspot, don't forget to choose "Automatic" in Location.
-Next time after you connect to the hotspot, please choose "Hotspot" in Location. 
+Next time after you connect to the hotspot, please choose "Hotspot" in Location again. 
 That's it.
 
 Note. If you don't need Hotspot location any more, do this in a terminal:
