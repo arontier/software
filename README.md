@@ -7,8 +7,6 @@ This is a guide explaining how to use software at Arontier Co., Inc.
   * [Calendar](#calendar) 
 * [OpenVPN](#openvpn)
 * [Drivers](#drivers)
-* [Applications](#applications)
-* [PC-specific software](#pc-specific-software)
 
 ## Groupware 
 
