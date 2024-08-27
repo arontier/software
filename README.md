@@ -111,15 +111,4 @@ Otherwise download "HP 컬러 레이저젯 프로 M277 프린터 시리즈 통�
 https://support.hp.com/kr-ko/drivers/selfservice/hp-color-laserjet-pro-mfp-m277dw/7089945/model/7089949
 and install the program *and* the driver.
 
-## Applications
-
-~~### [Marvin of ChemAxon](files/marvin.pdf)~~
-
-## PC-specific software
-
-### MAG B550M MORTAR (MS-7C94)
-
-* System & Chipset Drivers (Windows 10): https://download.msi.com/dvr_exe/mb/amd_chipset_drivers_am4_wt.zip
-* On-Board VGA Drivers (Windows 10): https://download.msi.com/dvr_exe/mb/amd_vga_driver.zip
-
 ## References
